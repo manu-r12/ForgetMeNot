@@ -4,7 +4,7 @@ AR Object Locator helps you save and find real-world objects using AR. If you fo
 
 # 🌟 Why I Made This
 
-This app is inspired by my mom. She would often ask me to place important items somewhere safe, so she could find them later. But the problem? I would always forget where I put them—and that usually led to some well-deserved scolding! To solve this, I created Forget Me Not, an app that ensures you’ll never lose track of your belongings again using AR.
+This app is inspired by my Mom(amma) 👸. She would often ask me to place important items somewhere safe, so she could find them later. But the problem? I would always forget where I put them—and that usually led to some well-deserved scolding! To solve this, I created Forget Me Not, an app that ensures you’ll never lose track of your belongings again using AR.
 
 
 ## 🔧 Technologies Used
