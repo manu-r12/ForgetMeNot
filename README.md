@@ -15,5 +15,6 @@ This app is inspired by my mom. She would often ask me to place important items 
 
 
 ## 🎥 Project Intro Video  
+How the app works explainantion 
 [Watch on YouTube](https://youtu.be/puy7svIaHbc)
 
