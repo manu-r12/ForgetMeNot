@@ -15,6 +15,6 @@ This app is inspired by my Mom(amma) 👸. She would often ask me to place impor
 
 
 ## 🎥 Project Intro Video  
-How the app works explainantion 
+How the app works explanation 
 [Watch on YouTube](https://youtu.be/puy7svIaHbc)
 
